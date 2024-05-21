@@ -65,6 +65,7 @@ Safety: Follow proper safety protocols and guidelines when operating CNC machine
 Overall, Mach3 Mill software provides powerful capabilities for PCB engraving, drilling, and cutting, enabling manufacturers to achieve precise and efficient PCB fabrication processes.
 
 # Output
+![Uploading pcb fabricate.jpg…]()
 
 
 
